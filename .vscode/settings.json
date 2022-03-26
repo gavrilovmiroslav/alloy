@@ -1,0 +1,9 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+
+    "java.home": "C:/Program Files/RedHat/java-11-openjdk-11.0.14-1",
+    "java.jdt.ls.java.home": "C:/Program Files/RedHat/java-11-openjdk-11.0.14-1",
+    "metals.javaHome": "C:/Program Files/RedHat/java-11-openjdk-11.0.14-1"
+}

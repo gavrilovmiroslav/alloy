@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "type": "scala",
+        "request": "launch",
+        "name": "Alloy",
+        "mainClass": "Main",
+        "args": [],
+        "jvmOptions": []
+    }]
+}
